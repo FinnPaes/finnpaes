@@ -1,6 +1,9 @@
 <img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api?username=finnpaes&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=finnpaes&show_icons=true&theme=radical"
+/>
+
+<img
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnpaes&layout=compact&theme=radical"
 />
 
 <!--
