@@ -5,6 +5,7 @@
   <li>CSS</li>
   <li>JavaScript</li>
   <li>VueJS</li>
+  <li>NuxtJS</li>
   <li>Laravel</li>
   <li>InertiaJS</li>
   <li>TailwindCSS</li>
