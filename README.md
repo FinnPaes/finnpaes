@@ -1,27 +1,30 @@
-<h1>Hey 👋, I am Finn Paes!</h1>
-<p>A 20 year old Fullstack Web Developer based in The Netherlands.<br>Programming languages I use:</p>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>VueJS</li>
-  <li>NuxtJS</li>
-  <li>Laravel</li>
-  <li>InertiaJS</li>
-  <li>TailwindCSS</li>
-</ul>
+# Hey 👋, I am Finn Paes!
+<p>A 20 year old Fullstack Web Developer based in The Netherlands!</p>
 
-<p>Technologies I work with:</p>
-<ul>
-  <li>Windows</li>
-  <li>Linux</li>
-  <li>NGINX</li>
-  <li>MySQL / MariaDB</li>
-  <li>Git</li>
-</ul>
 
-[Vistit my website!](https://finnpaes.nl)
+## 💬 Follow me on:
 
-<br><br>
+![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)
+![My website](https://img.shields.io/static/v1?style=for-the-badge&message=My%20Website&color=0A66C2&logo=nuxt.js&logoColor=FFFFFF&label=)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FinnPaes&theme=black-ice&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+## ⚙️ I work with:
+
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+![CSS](https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+
+
+![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
+![Nuxt.js](https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&color=222222&logo=Nuxt.js&logoColor=00DC82&label=)
+![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
+![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
+
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label=)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+
+![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
+![Apple](https://img.shields.io/static/v1?style=for-the-badge&message=MacOS&color=000000&logo=Apple&logoColor=FFFFFF&label=)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
