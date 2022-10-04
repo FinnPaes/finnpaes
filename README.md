@@ -4,8 +4,8 @@
 
 ## 💬 Follow me on:
 
-![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)
-![My website](https://img.shields.io/static/v1?style=for-the-badge&message=My%20Website&color=0A66C2&logo=nuxt.js&logoColor=FFFFFF&label=)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/finnpaes/)
+[![My website](https://img.shields.io/static/v1?style=for-the-badge&message=My%20Website&color=0A66C2&logo=nuxt.js&logoColor=FFFFFF&label=)](https://finnpaes.nl/)
 
 
 ## ⚙️ I work with:
